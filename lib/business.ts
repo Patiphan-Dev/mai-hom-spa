@@ -5,11 +5,11 @@ export const business = {
   description:
     "ไม้หอม สปา คือพื้นที่พักใจกลางเมือง ให้บริการนวดแผนไทย นวดน้ำมันหอมระเหย และทรีตเมนต์ผิวพรรณ โดยนักบำบัดมืออาชีพที่ผ่านการฝึกอบรมมาตรฐาน",
   isPlaceholder: true,
-  phone: "02-123-4567",
-  phoneDisplay: "02-123-4567",
-  lineId: "@maihomspa",
-  lineUrl: "https://line.me/ti/p/@maihomspa",
+  phone: "081-XXX-XXXX",
+  phoneDisplay: "081-XXX-XXXX",
+  lineId: "@xxxxx",
+  lineUrl: "https://line.me/ti/p/@xxxxx",
   facebookUrl: "https://facebook.com/maihomspa",
   instagramUrl: "https://instagram.com/maihomspa_bangkok",
-  email: "hello@maihomspa.example.com",
+  email: "patiphan.dev@gmail.com",
 } as const;

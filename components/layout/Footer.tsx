@@ -54,7 +54,7 @@ export function Footer() {
 
       <div className="border-t border-cream/10 px-5 py-5 text-center text-xs text-cream/50">
         <p>
-          © {new Date().getFullYear()} {business.name} · เว็บไซต์ตัวอย่างสำหรับการนำเสนอ ข้อมูลติดต่อและที่อยู่เป็นข้อมูลจำลอง
+          © {new Date().getFullYear()} {business.name} · เว็บไซต์ตัวอย่างสำหรับการนำเสนอ ชื่อร้านและที่อยู่สาขาเป็นข้อมูลจำลอง
         </p>
         <p className="mt-1">พัฒนาเว็บไซต์โดย Patiphan Dev</p>
       </div>
